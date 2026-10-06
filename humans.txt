@@ -1,0 +1,14 @@
+/* TEAM */
+Дизайнер и разработчик: Vladimir Nikishin
+Сайт: design.magic-notebook.com
+Telegram: @VladimirNikishin
+Откуда: Херцег-Нови, Черногория
+
+/* THANKS */
+Кому: Клиенту, компании CHtoRU за доверие.
+
+/* SITE */
+Язык: Русский (Russian)
+Стандарты: HTML5, CSS3, JavaScript (ES2022)
+Компоненты: Astro, CSS
+Инструменты: Figma, VS Code, Codex
