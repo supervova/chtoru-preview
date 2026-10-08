@@ -105,6 +105,10 @@
 <path d="M20 7.5V16.5L12 21L4 16.5V7.5L12 12L20 7.5Z" fill="var(--icon-fill)"/>
 <path d="M12 12L4 7.5V16.5L12 21L20 16.5V7.5L12 12ZM12 21V12" stroke="var(--icon-stroke)" stroke-width="var(--icon-stroke-width)" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M20 7.5L12 3L4 7.5M16 5.25L8 9.75" stroke="var(--icon-stroke)" stroke-width="var(--icon-stroke-width)" stroke-linecap="round" stroke-linejoin="round"/>
+</symbol><symbol viewBox="0 0 24 24" fill="none" id="icon-package-check" xmlns="http://www.w3.org/2000/svg">
+<path d="M4 16.5L12 21V12L4 7.5V16.5Z" fill="var(--icon-fill)"/>
+<path d="M14.3309 19.6889L12 21L4 16.5V7.5L12 12M12 21V12M12 12L20 7.5V12" stroke="var(--icon-stroke)" stroke-width="var(--icon-stroke-width)" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16 5.25L12 3L4 7.5M16 5.25L20 7.5M16 5.25L8 9.75M16 17L18 19L22 15" stroke="var(--icon-stroke)" stroke-width="var(--icon-stroke-width)" stroke-linecap="round" stroke-linejoin="round"/>
 </symbol><symbol viewBox="0 0 24 24" fill="none" id="icon-packages" xmlns="http://www.w3.org/2000/svg">
 <path d="M22.1426 13.0713L17.0713 16.0713L12.0713 13.1133L7.07129 16.0713L2 13.0713L7.07129 10L12.0713 13.0273L17.0713 10L22.1426 13.0713Z" fill="var(--icon-fill)"/>
 <path d="M17.0713 5L12 8L6.92871 5L12 1.92871L17.0713 5Z" fill="var(--icon-fill)"/>
