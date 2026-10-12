@@ -1,0 +1,1 @@
+@layer base,content,layout,components,features;@layer pages{.section-search{padding-top:var(--size-3);max-width:54rem}@scope(.page-search){@scope(.section-search){ul{--list-gap:0;--list-padding:0}}}}@layer utils,print,components.ui,components.form,components.sections;
